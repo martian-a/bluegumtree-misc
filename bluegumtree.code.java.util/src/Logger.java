@@ -1,4 +1,4 @@
-package co.uk.bluegumtree.code.java.util;
+package uk.co.bluegumtree.code.java.util;
 
 import javax.xml.transform.ErrorListener;
 import javax.xml.transform.TransformerException;
